@@ -6,5 +6,3 @@ if ! [[ -x wcat ]]; then
 fi
 
 ../../tester/run-tests.sh $*
-
-
